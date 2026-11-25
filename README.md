@@ -7,7 +7,7 @@
 Bounty: https://make.fun/bounty/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba
 
 > To: My old landlord
-> I never told you the "mystery smell" was my flatmate's protein shaker, and I let you repaint the whole kitchen because of it.
+> I never told you the "mystery smell" was my flatmate's protein shaker, and I watched you repaint the whole kitchen over it.
 
 ## Run
 

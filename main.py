@@ -1,11 +1,11 @@
 """Unsent: The Micro-Confession Sprint — make.fun entry.
 
-Entry text: 145 characters (limit 260).
+Entry text: 143 characters (limit 260).
 """
 
 import os
 
-ENTRY = 'To: My old landlord\nI never told you the "mystery smell" was my flatmate\'s protein shaker, and I let you repaint the whole kitchen because of it.'
+ENTRY = 'To: My old landlord\nI never told you the "mystery smell" was my flatmate\'s protein shaker, and I watched you repaint the whole kitchen over it.'
 
 
 def main():
